@@ -1,1 +1,1 @@
-# sagemaker-projects-mlops-inference
+# sagemaker-projects-mlops
